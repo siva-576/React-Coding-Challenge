@@ -1,4 +1,4 @@
-# Bitcot Coding Challenge
+# React Coding Challenge
 
 > Welcome to the Bitcot Coding Challenge!
 
