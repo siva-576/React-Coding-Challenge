@@ -1,6 +1,6 @@
 # Bitcot Coding Challenge
 
-> Welcome to the Stan Coding Challenge!
+> Welcome to the Bitcot Coding Challenge!
 
 ## Overview
 
