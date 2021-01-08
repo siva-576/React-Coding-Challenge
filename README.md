@@ -1,4 +1,4 @@
-# Stan Coding Challenge
+# Bitcot Coding Challenge
 
 > Welcome to the Stan Coding Challenge!
 
