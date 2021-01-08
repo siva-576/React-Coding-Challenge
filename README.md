@@ -1,6 +1,6 @@
 # React Coding Challenge
 
-> Welcome to the Bitcot Coding Challenge!
+> Welcome to the React Coding Challenge!
 
 ## Overview
 
