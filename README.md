@@ -8,21 +8,11 @@ To complete this challenge, you will need to write a simple [React](https://face
 
 The purpose of this challenge is to assess your **skills and approach to composing a simple web app** given a set of screens and an API feed. We will also assess the **generated HTML, CSS, and JS** output.
 
-This challenge is expected to take about 2-4 hours.
-
 ## The Challenge
 
 It's pretty simple. Using the provided screens as a reference, you'll need to build a set of React components to render the app. You'll also need to request a JSON feed, filter that data, and use the relevant fields.
 
 Although this is a basic exercise, we'll be looking for **simple, well-designed, performant, and tested code** in the submission.
-
-Please include a `README` with setup instructions, and any tests or other documentation you created as part of your solution.
-
-Also, add the following info to your `README`:
-
-- How did you decide on the technical and architectural choices used as part of your solution?
-- Are there any improvements you could make to your submission?
-- What would you do differently if you were allocated more time?
 
 ## Details
 
