@@ -60,7 +60,7 @@ For the "Movies" page filter on:
 The attributes you should use to display the entries are:
 
 - `title`
-- `images` → `Poster Art` → `url`
+- `images` → `PosterArt` → `url`
 
 You will also need to handle the loading and error states of fetching the JSON feed:
 
